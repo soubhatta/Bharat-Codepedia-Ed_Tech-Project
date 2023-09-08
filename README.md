@@ -16,5 +16,5 @@ In our modern age society, traditional education systems are often constrained b
 
  
 <p align="center">
-  <img width="100" height="100" src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/0aa608b7-de08-4018-b017-64ced1e01476">
+  <img width="400" height="200" src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/0aa608b7-de08-4018-b017-64ced1e01476">
 </p>
