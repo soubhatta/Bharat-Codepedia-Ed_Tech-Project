@@ -22,7 +22,7 @@ Bharat Codepedia: Your Gateway to Coding Excellence where the world of coding co
   <img width="800" height="400" src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/0aa608b7-de08-4018-b017-64ced1e01476">
 </p>
 
-## TECH STACKS USED
+# TECH STACKS USED
 <p align="center">
 <img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/35a440d7-8645-49e8-8c5a-500473dfa0ff" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/1953d687-2274-493d-b0f8-bfbbdaad6974" alt="CSS" height="40" style="vertical-align:top; margin:4px">
