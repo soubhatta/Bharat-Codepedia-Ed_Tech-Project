@@ -16,3 +16,6 @@ PROBLEM STATEMENT - In our modern age society, traditional education systems are
 ![WhatsApp Image 2023-09-08 at 18 39 59](https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/ef8302ce-c2fe-4e98-992e-9bf6567d7d63)
 
 TECH STACK USED - HTML,CSS,JAVASCRIPT,NODEJS,REACTJS,EXPRESSJS,MONGODB
+![HTML](https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/cb9865f9-817d-46db-bca6-70fe01b450a2)
+![CSS](https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/ea56f5d3-50f9-42a7-b77c-0b716dda26af)
+![JAVSCRIPT](https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/eae9cd7c-a8e6-4c86-ad3f-79f10144ca7f)
