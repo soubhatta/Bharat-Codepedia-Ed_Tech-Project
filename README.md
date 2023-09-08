@@ -24,9 +24,9 @@ Bharat Codepedia: Your Gateway to Coding Excellence where the world of coding co
 
 ## TECH STACKS USED
 <p align="center">
-<img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/35a440d7-8645-49e8-8c5a-500473dfa0ff" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/1953d687-2274-493d-b0f8-bfbbdaad6974" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/4c3b118c-4a9e-42b7-9fad-6b007b33411f" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/35a440d7-8645-49e8-8c5a-500473dfa0ff" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/1953d687-2274-493d-b0f8-bfbbdaad6974" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/4c3b118c-4a9e-42b7-9fad-6b007b33411f" alt="JAVASCRIPT" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
