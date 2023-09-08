@@ -14,7 +14,7 @@ Transform learning through tech innovations, from personalized education platfor
 # PROBLEM STATEMENT 
 In our modern age society, traditional education systems are often constrained by physical boundaries, limited resource access, and outdated teaching methodologies. These persistent challenges and obstacles hinder the potentiality of learners and educators to fully engage with the learning process and experiences. As technology continues to advance rapidly day by day, there is a critical need to harness its power to revolutionize and elevate the education system and create a dynamic, tech-savvy and innovative learning ecosystem that caters to the diverse needs of learners.
 
- # Bharat Codepedia
+ # MERN STACK PROJECT - Bharat Codepedia
 
 Bharat Codepedia: Your Gateway to Coding Excellence where the world of coding comes to life! We are your one-stop destination for comprehensive coding education, designed to empower individuals with the knowledge and skills they need to succeed in the digital age.
 
