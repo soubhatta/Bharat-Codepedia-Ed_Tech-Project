@@ -21,3 +21,10 @@ Bharat Codepedia: Your Gateway to Coding Excellence where the world of coding co
 <p align="center">
   <img width="800" height="400" src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/0aa608b7-de08-4018-b017-64ced1e01476">
 </p>
+
+## TECH STACKS USED
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
