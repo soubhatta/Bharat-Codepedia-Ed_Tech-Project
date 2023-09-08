@@ -2,7 +2,7 @@
 
 EdTech Theme Project for Live The Code 2.0 36 Hour Hackathon organised by ELIXIR &amp;  Codechef ADGITM
 
-TEAM NAME - Code Wizards
+# TEAM NAME - Code Wizards
 
 TEAM LEADER - Soumalya Bhattacharyya(Github Username - soubhatta)
 
