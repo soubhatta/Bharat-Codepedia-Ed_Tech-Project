@@ -19,7 +19,7 @@ In our modern age society, traditional education systems are often constrained b
 Bharat Codepedia: Your Gateway to Coding Excellence where the world of coding comes to life! We are your one-stop destination for comprehensive coding education, designed to empower individuals with the knowledge and skills they need to succeed in the digital age.
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/0aa608b7-de08-4018-b017-64ced1e01476">
+  <img width="800" height="400" src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/6b8aa01e-5830-4a0a-aa81-88dfcc486d10">
 </p>
 
 # TECH STACKS USED
@@ -32,7 +32,6 @@ Bharat Codepedia: Your Gateway to Coding Excellence where the world of coding co
 <img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/181dd0e5-096a-4bdc-8c9c-f27049acb5ee" alt="ExpressJs" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/4266ea94-4d33-402b-9ac9-006467d9de34" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 </p>
-
 
 
 
